@@ -1,1 +1,1 @@
-file is created
+Student Management System is computer program.
